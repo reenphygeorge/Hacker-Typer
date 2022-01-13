@@ -1,0 +1,13 @@
+body {
+    background-color: black !important;
+}
+
+p {
+    color: #00ff00;
+    font-family: monospace;
+    font-size: 13px;
+}
+
+.container {
+    margin-top: 20px;
+}
